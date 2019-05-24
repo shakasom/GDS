@@ -1,5 +1,4 @@
-# GDS
-Geographic data science tutorials series.
+# Geographic data science tutorials with Python.
 
 This is a three part articles published in Medium on Getting started with Geographic Data Science in Python.
 
